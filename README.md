@@ -1,4 +1,4 @@
-# AtelierGoogle
+# Atelier Google
 
 ## Formation Google ATELIER DIGITAL – Jour 1 – Les fondamentaux
 Intervenant : Jean-Charles Vanderlinden, fondateur de CentralApp (plus d’infos : https://www.digimedia.be/News/fr/19967/la-startup-belge-centralapp-leve-500000.html ou https://www.centralapp.com/fr) 
